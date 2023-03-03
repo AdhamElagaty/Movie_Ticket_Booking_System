@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Movie_Ticket_Booking_System",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Movie_Ticket_Booking_System::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Movie_Ticket_Booking_System-Debug-0d18d4e70e71e74ba808.json",
+					"name" : "Movie_Ticket_Booking_System",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programing/C++ Project/Movie Ticket Booking System/Movie_Ticket_Booking_System/cmake-build-debug",
+		"source" : "D:/Programing/C++ Project/Movie Ticket Booking System/Movie_Ticket_Booking_System"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

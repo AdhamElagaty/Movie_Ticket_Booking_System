@@ -1,0 +1,3 @@
+D:/Programing/C++ Project/Movie Ticket Booking System/Movie_Ticket_Booking_System/cmake-build-debug/CMakeFiles/Movie_Ticket_Booking_System.dir
+D:/Programing/C++ Project/Movie Ticket Booking System/Movie_Ticket_Booking_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programing/C++ Project/Movie Ticket Booking System/Movie_Ticket_Booking_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
